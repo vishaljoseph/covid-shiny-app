@@ -1,2 +1,2 @@
 # covid-shiny-app
-R shiny app visualisation covid-19 trends in NYC
+R shiny app for visualisation of covid-19 trends in NYC
